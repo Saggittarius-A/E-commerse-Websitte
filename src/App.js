@@ -24,10 +24,10 @@ function App() {
                <button onClick={openMenu}>
                  &#9776;
                </button>
-               <Link to="/">Amazona</Link>
+               <Link to="/">amazona</Link>
            </div>
            <div className="header-links">
-               <a href="cart.html">Cart</a>
+               <a href="cart.html">Cart </a>
                <a href="signin.html">Sign in</a>
            </div>
         </header>
